@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://animecix.net/storage/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/enboz21/TestPlugins",
+        "fileSize": 17940,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "enboz"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "ExampleProvider",
+        "description": "Animecix Cloudstream Eklentisi",
+        "url": "https://raw.githubusercontent.com/enboz21/TestPlugins/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
