@@ -1,0 +1,8 @@
+{
+  "name": "Enes Deposu",
+  "icon": "",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/enboz21/TestPlugins/builds/plugins.json"
+  ]
+}
