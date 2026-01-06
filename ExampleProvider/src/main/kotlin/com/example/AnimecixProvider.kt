@@ -2,9 +2,10 @@ package com.example // DİKKAT: Burası klasör yapınla aynı olmalı (örn: co
 
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
+import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.module.kotlin.readValue
-
+@CloudstreamPlugin
 class AnimecixProvider : MainAPI() {
     override var mainUrl = "https://animecix.tv"
     private val apiUrl = "https://animecix.tv/secure"
