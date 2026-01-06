@@ -42,7 +42,7 @@ subprojects {
     }
 
     android {
-        namespace = "com.example"
+        namespace = "com.enes.animecix"
 
         defaultConfig {
             minSdk = 21

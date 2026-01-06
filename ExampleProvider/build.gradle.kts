@@ -9,8 +9,8 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove any of them.
 
-    description = "Lorem ipsum"
-    authors = listOf("Cloudburst", "Luna712")
+    description = "Animecix Cloudstream Eklentisi"
+    authors = listOf("enboz")
 
     /**
     * Status int as one of the following:
@@ -21,13 +21,13 @@ cloudstream {
     **/
     status = 1 // Will be 3 if unspecified
 
-    tvTypes = listOf("Movie")
+    tvTypes = listOf("Anime", "Movie", "TvSeries")
 
     requiresResources = true
-    language = "en"
+    language = "tr"
 
     // Random CC logo I found
-    iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"
+    iconUrl = "https://animecix.net/storage/images/logo.png"
 }
 
 android {
